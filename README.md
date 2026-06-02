@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hey! I'm fuel, pronouns are she/her and I'm 27.
+Hey! I'm bachimus, pronouns are she/her and I'm 27.
 
 I'm the maintainer of the PCBox emulator.
 
